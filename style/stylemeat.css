@@ -1,0 +1,40 @@
+body{
+    background-color: #e9ecef;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse; 
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 300px;
+    height: 70px;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+.yidva{
+    width: 400px;
+    height: 500px;
+    border-radius: 18px;
+    background-color: #cfe0c3;
+    margin-top: -150px;
+    margin-left: 800px;
+    padding-top: 20px;
+}
+.choice{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.buy{
+    width: 120px;
+    height: 50px;
+    border-radius: 8px;
+    margin-top: 200px;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 27px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: aliceblue;
+}
